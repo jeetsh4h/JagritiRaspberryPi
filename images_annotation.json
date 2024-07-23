@@ -1,0 +1,1405 @@
+{
+    "data_row": {
+        "id": "clyljk9oq019k0724q7xpq6jn",
+        "external_id": "person_with_lanyard8.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F822a19eb-4210-5bbc-d23c-a977789d1b43-person_with_lanyard8.png?Expires=1721048669564&KeyName=labelbox-assets-key-3&Signature=ehStPyuaUm7Ebq45gBT24vi7Jaw"
+    },
+    "media_attributes": {
+        "height": 266,
+        "width": 189,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clyljnirf08k607005pt573ta",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clyljzdys001m356qv5clx7bq",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 115.0,
+                                    "left": 43.0,
+                                    "height": 113.0,
+                                    "width": 92.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq019l0724l93fkrwo",
+        "external_id": "person_with_lanyard9.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F64796478-0936-8265-c987-bd955e221226-person_with_lanyard9.png?Expires=1721048669565&KeyName=labelbox-assets-key-3&Signature=5adLEmr766QgEqQeFHw1cEDYUds"
+    },
+    "media_attributes": {
+        "height": 183,
+        "width": 276,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clyljopd107wq07x84zet1jnu",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clyljy2wk0017356qygkgv91r",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 46.0,
+                                    "left": 97.0,
+                                    "height": 137.0,
+                                    "width": 77.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq019m07244b3wo8bh",
+        "external_id": "person_with_lanyard10.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2Ffa62eddc-5eec-a3d4-1f92-53e83d6b6c3a-person_with_lanyard10.png?Expires=1721048669569&KeyName=labelbox-assets-key-3&Signature=wnU_A-NUhfJqGqpBoQeZp2aTo4s"
+    },
+    "media_attributes": {
+        "height": 192,
+        "width": 262,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clyljydpg031407fb0hbndwgr",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clyljyjqc001f356qhlpbzq3a",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 0.0,
+                                    "left": 78.0,
+                                    "height": 138.0,
+                                    "width": 65.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq019n072441qc8tua",
+        "external_id": "person_with_lanyard11.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F9b06dd6e-635e-fac6-5aca-5b94b9f25d5d-person_with_lanyard11.png?Expires=1721048669572&KeyName=labelbox-assets-key-3&Signature=De8WTbi8KSKy9LEOX-IuGzffoxs"
+    },
+    "media_attributes": {
+        "height": 232,
+        "width": 217,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clyljzarf03co07fwe2ij9dm9",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clyljzyyt001p356qgkiwmdgp",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 60.0,
+                                    "left": 88.0,
+                                    "height": 97.0,
+                                    "width": 42.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq019o0724snyvkgx6",
+        "external_id": "person_with_lanyard12.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F198b2d9b-ff54-4c2c-6ed3-24175754a4de-person_with_lanyard12.png?Expires=1721048669571&KeyName=labelbox-assets-key-3&Signature=GRtGDIEz1-DcaDvHowm2dckKtIY"
+    },
+    "media_attributes": {
+        "height": 266,
+        "width": 190,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clyljzlyu02p507gv7g2n5o9u",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk061x001t356q750dxd5y",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 83.0,
+                                    "left": 62.0,
+                                    "height": 155.0,
+                                    "width": 60.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq019p0724vcsfa8u2",
+        "external_id": "person_with_lanyard13.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F5161ced7-c87f-81b8-a48d-65f30feb9835-person_with_lanyard13.png?Expires=1721048669575&KeyName=labelbox-assets-key-3&Signature=PKpUBATDIEvZxkiI-hu024R3fhc"
+    },
+    "media_attributes": {
+        "height": 184,
+        "width": 275,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk12yv03p107kv443gbh4m",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk0dch001x356qpq2pw0co",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 24.0,
+                                    "left": 105.0,
+                                    "height": 120.0,
+                                    "width": 63.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq019q0724t0wvk7dc",
+        "external_id": "person_with_lanyard14.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F79c0df43-0721-a808-8045-602631e97a10-person_with_lanyard14.png?Expires=1721048669575&KeyName=labelbox-assets-key-3&Signature=GnRcRYTOpivzPa9_UAGpCbm1hwM"
+    },
+    "media_attributes": {
+        "height": 260,
+        "width": 194,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk19gy020307jne8ix3pe3",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk0jt50021356qvjlld20d",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 96.0,
+                                    "left": 76.0,
+                                    "height": 83.0,
+                                    "width": 38.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq019r0724kz2t2jgr",
+        "external_id": "person_with_lanyard15.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2Fc95c0f1a-aec5-66ef-09e9-148e46e9018f-person_with_lanyard15.png?Expires=1721048669576&KeyName=labelbox-assets-key-3&Signature=9R0Fz7J09LM_PPh8DQ7cz9lyork"
+    },
+    "media_attributes": {
+        "height": 157,
+        "width": 320,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk1glp03cy07fwec6b2b68",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk0r3h0025356q0t3w07lq",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 64.0,
+                                    "left": 99.0,
+                                    "height": 92.0,
+                                    "width": 41.0
+                                }
+                            },
+                            {
+                                "feature_id": "clylk0uf20028356qcdbqhv1b",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 5.0,
+                                    "left": 236.0,
+                                    "height": 152.0,
+                                    "width": 74.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq019s07246xsde0wj",
+        "external_id": "person_with_lanyard16.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2Fb9b696a3-d37b-3323-313a-1800ce020a04-person_with_lanyard16.png?Expires=1721048669579&KeyName=labelbox-assets-key-3&Signature=O_eOvMJJEAPw4B1KSpsQRl4SPwk"
+    },
+    "media_attributes": {
+        "height": 190,
+        "width": 265,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk1m3602p707gva2151l49",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk16ov002m356q86t02d62",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 14.0,
+                                    "left": 103.0,
+                                    "height": 118.0,
+                                    "width": 63.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq019t0724x93rylk4",
+        "external_id": "person_with_lanyard17.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2Fa71cff9c-250f-851b-067d-d77bb15588ce-person_with_lanyard17.png?Expires=1721048669579&KeyName=labelbox-assets-key-3&Signature=eTBNZgvsl8xnR_h81eTVWXNA9Bk"
+    },
+    "media_attributes": {
+        "height": 188,
+        "width": 267,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk1xt203cq07gc5zwbhf5y",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk1bf6002q356qn0xp1b13",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 79.0,
+                                    "left": 112.0,
+                                    "height": 109.0,
+                                    "width": 41.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq019u0724ss9ieama",
+        "external_id": "person_with_lanyard18.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F032b4346-a63e-f7a6-c004-65f8fb111c44-person_with_lanyard18.png?Expires=1721048669580&KeyName=labelbox-assets-key-3&Signature=qLCs5RJed2DTdwaz5gqD-hfnMrE"
+    },
+    "media_attributes": {
+        "height": 286,
+        "width": 176,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk28kj02d607jv5ayafx00",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk1g8i002u356q1rv690xh",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 127.0,
+                                    "left": 32.0,
+                                    "height": 139.0,
+                                    "width": 53.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq019v0724qmlv38us",
+        "external_id": "person_with_lanyard19.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F55897995-9a10-3de7-e6d8-d119f0df508c-person_with_lanyard19.png?Expires=1721048669581&KeyName=labelbox-assets-key-3&Signature=bRYWB6Sntot5KRVVEb5cT74Luxs"
+    },
+    "media_attributes": {
+        "height": 183,
+        "width": 275,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk2dck02d807jv9czx353v",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk1mpy002y356qktehno24",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 63.0,
+                                    "left": 131.0,
+                                    "height": 102.0,
+                                    "width": 35.0
+                                }
+                            },
+                            {
+                                "feature_id": "clylk1p7i0031356qkhuypwjf",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 59.0,
+                                    "left": 207.0,
+                                    "height": 92.0,
+                                    "width": 38.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq019w0724gvhrosb4",
+        "external_id": "person_with_lanyard20.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F383ea762-cdd2-dce4-1734-9819086e88d7-person_with_lanyard20.png?Expires=1721048669581&KeyName=labelbox-assets-key-3&Signature=TBMkUDyDlBzyy477iDQ7UvITkX8"
+    },
+    "media_attributes": {
+        "height": 183,
+        "width": 275,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk2ial026n07doacajh6wb",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk1v0v0035356qofliss4t",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 85.0,
+                                    "left": 139.0,
+                                    "height": 72.0,
+                                    "width": 28.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq019x07242kyqkbge",
+        "external_id": "person_with_lanyard21.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F986227a3-81e7-e30d-7ff4-1b62f5477000-person_with_lanyard21.png?Expires=1721048669584&KeyName=labelbox-assets-key-3&Signature=VfiuCFDOVZcvKyW5onO3COE7I8M"
+    },
+    "media_attributes": {
+        "height": 194,
+        "width": 259,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk2rri03pc07kv7o1ih0qb",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk20u70039356q6sj99kvm",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 82.0,
+                                    "left": 152.0,
+                                    "height": 83.0,
+                                    "width": 70.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq019y07247hgehoev",
+        "external_id": "person_with_lanyard22.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F517a60a1-0931-bd16-acfe-1c632d81c69a-person_with_lanyard22.png?Expires=1721048669582&KeyName=labelbox-assets-key-3&Signature=poVYG28NyfpZyveZ9ZAlocYVoP8"
+    },
+    "media_attributes": {
+        "height": 183,
+        "width": 275,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk2wtp02pf07gve9mq3p1v",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk25xy003d356qvtlx2ocf",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 82.0,
+                                    "left": 150.0,
+                                    "height": 85.0,
+                                    "width": 41.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq019z0724d7lz2ka4",
+        "external_id": "person_with_lanyard23.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F498f37ce-6b43-5aec-1e6e-cc3b7bf45ef9-person_with_lanyard23.png?Expires=1721048669583&KeyName=labelbox-assets-key-3&Signature=fCeH3NjMRdgvoHBMgvp5xujc8ls"
+    },
+    "media_attributes": {
+        "height": 199,
+        "width": 253,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk33dv03db07gc1pfm32lt",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk2bfw003h356qqih39zhx",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 96.0,
+                                    "left": 86.0,
+                                    "height": 103.0,
+                                    "width": 81.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq01a00724gjg77s8p",
+        "external_id": "person_with_lanyard24.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2Fd517aa12-4b19-e1aa-21f4-1672f61ca37c-person_with_lanyard24.png?Expires=1721048669583&KeyName=labelbox-assets-key-3&Signature=WM37sCYarB0Z4B9FoAmCuWzE25A"
+    },
+    "media_attributes": {
+        "height": 225,
+        "width": 225,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk37sr020n07jn41854hl8",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk2fm9003m356qe73jmz9h",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 104.0,
+                                    "left": 80.0,
+                                    "height": 121.0,
+                                    "width": 70.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq01a10724d9wc1o7x",
+        "external_id": "person_with_lanyard25.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F30f0a1c7-b271-4c84-7979-fbe35e41c799-person_with_lanyard25.png?Expires=1721048669583&KeyName=labelbox-assets-key-3&Signature=OF0aD8MII-1w0mRrTpDdgLDIbN0"
+    },
+    "media_attributes": {
+        "height": 190,
+        "width": 265,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk3cya03di07gc599o454f",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk3jsd003s356q0k32vdd4",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 85.0,
+                                    "left": 70.0,
+                                    "height": 58.0,
+                                    "width": 94.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq01a20724k4t0t5a9",
+        "external_id": "person_with_lanyard26.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F90ec594e-ee43-c14d-bdc8-0ab227f8ea32-person_with_lanyard26.png?Expires=1721048669588&KeyName=labelbox-assets-key-3&Signature=un08zo8nVqry8Ae7EZ0KcGRNPjg"
+    },
+    "media_attributes": {
+        "height": 192,
+        "width": 262,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk3mc802pq07gvgo6d1rng",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk3uvb003w356qv00m0aix",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 2.0,
+                                    "left": 106.0,
+                                    "height": 124.0,
+                                    "width": 54.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq01a307247wpiubl1",
+        "external_id": "person_with_lanyard27.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F1bac1b51-d8f0-53d3-fd8a-3eed45139cf2-person_with_lanyard27.png?Expires=1721048669588&KeyName=labelbox-assets-key-3&Signature=Z3ySw88s51kcL4pQ-8CxOtffGpw"
+    },
+    "media_attributes": {
+        "height": 266,
+        "width": 190,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk4rln027m07do0e2ngdo2",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk409p0040356qns6i8pfy",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 84.0,
+                                    "left": 53.0,
+                                    "height": 158.0,
+                                    "width": 73.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq01a40724u6xgq0o7",
+        "external_id": "person_with_lanyard28.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2Ff41de089-6a00-6f65-469b-1e2ea18b7d10-person_with_lanyard28.png?Expires=1721048669587&KeyName=labelbox-assets-key-3&Signature=-htrKj9CdKtdxfl4cK6xjEO2h1s"
+    },
+    "media_attributes": {
+        "height": 159,
+        "width": 318,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk4xiu027y07dofdnt2hhs",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk45c70044356qdypfnrpw",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 0.0,
+                                    "left": 92.0,
+                                    "height": 140.0,
+                                    "width": 83.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq01a5072493dzsayi",
+        "external_id": "person_with_lanyard29.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2Fca13c60d-c1dc-36ae-b320-b2a90c35d0ca-person_with_lanyard29.png?Expires=1721048669587&KeyName=labelbox-assets-key-3&Signature=NPB1DBluRWM8SfA3k4gIQMNG38U"
+    },
+    "media_attributes": {
+        "height": 196,
+        "width": 257,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk51zs021307jn9klf7wsq",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk4bhv0049356qinwey93a",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 42.0,
+                                    "left": 123.0,
+                                    "height": 33.0,
+                                    "width": 15.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq01a60724lceg8sij",
+        "external_id": "person_with_lanyard1.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F68e11997-d36e-0986-c54d-d99f2d96f96e-person_with_lanyard1.png?Expires=1721048669587&KeyName=labelbox-assets-key-3&Signature=5ruxyvcPsSli71crijFmk8cz6CM"
+    },
+    "media_attributes": {
+        "height": 275,
+        "width": 183,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk57xp02e507jv4siea7i6",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk4get004d356qvkb3qykt",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 122.0,
+                                    "left": 66.0,
+                                    "height": 98.0,
+                                    "width": 42.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq01a70724sjh9mohe",
+        "external_id": "person_with_lanyard2.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F6b50875f-e5da-8c8d-4e84-fd68f8423eb2-person_with_lanyard2.png?Expires=1721048669589&KeyName=labelbox-assets-key-3&Signature=naRFqlRuKYsZNDO389_8EH4P1m4"
+    },
+    "media_attributes": {
+        "height": 183,
+        "width": 275,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk5dlt04oh07ju614j2rcy",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk4ldz004h356qlyr2mbx0",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 53.0,
+                                    "left": 82.0,
+                                    "height": 101.0,
+                                    "width": 31.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq01a80724bdx0zk2m",
+        "external_id": "person_with_lanyard3.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F20cdefe6-a9f2-a1aa-184c-5c092df3d363-person_with_lanyard3.png?Expires=1721048669590&KeyName=labelbox-assets-key-3&Signature=guL4sHlb9cuRJJ6OZChyRvNI_q8"
+    },
+    "media_attributes": {
+        "height": 174,
+        "width": 290,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk5ian04oj07ju4n5gdp2p",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk4tu5004l356qg3kudzah",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 24.0,
+                                    "left": 108.0,
+                                    "height": 130.0,
+                                    "width": 71.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq01a907241sz9nb1i",
+        "external_id": "person_with_lanyard4.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F771e49a6-2b53-bbf1-16ed-6da89cb99c3e-person_with_lanyard4.png?Expires=1721048669590&KeyName=labelbox-assets-key-3&Signature=F9bmZLAiN5KEx-Dd1r5z6QQEjnk"
+    },
+    "media_attributes": {
+        "height": 183,
+        "width": 275,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk5qx7034m07h43mbr0vxo",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk4ype004p356qgttbr1wj",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 78.0,
+                                    "left": 156.0,
+                                    "height": 101.0,
+                                    "width": 38.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq01aa07246rfa1rf0",
+        "external_id": "person_with_lanyard5.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F039e657a-d1eb-aaa5-067c-b6399bea6798-person_with_lanyard5.png?Expires=1721048669590&KeyName=labelbox-assets-key-3&Signature=E8AxmCXzXIderypnGLc9V5oUkvA"
+    },
+    "media_attributes": {
+        "height": 275,
+        "width": 183,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk5vg3021907jngwii1grk",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk54fw004t356qttm1etn9",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 85.0,
+                                    "left": 74.0,
+                                    "height": 94.0,
+                                    "width": 40.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq01ab0724u9qvk7t3",
+        "external_id": "person_with_lanyard6.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2Fa75c572e-0a36-070f-8404-68ed66ec7e2c-person_with_lanyard6.png?Expires=1721048669590&KeyName=labelbox-assets-key-3&Signature=F70NM8UJhEMScJMu5v81bQSwGiQ"
+    },
+    "media_attributes": {
+        "height": 219,
+        "width": 230,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk61ls034o07h44pej7dni",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk5dj4004x356qu9a7e5d9",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 63.0,
+                                    "left": 54.0,
+                                    "height": 67.0,
+                                    "width": 29.0
+                                }
+                            },
+                            {
+                                "feature_id": "clylk5kj60050356q3yqs245s",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 82.0,
+                                    "left": 166.0,
+                                    "height": 65.0,
+                                    "width": 31.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
+{
+    "data_row": {
+        "id": "clyljk9oq01ac0724s1wxptf6",
+        "external_id": "person_with_lanyard7.png",
+        "row_data": "https://storage.labelbox.com/clylgiv2n077c07zybzxrgu7t%2F14289b08-45a2-1b0f-262a-a90f0baabd1f-person_with_lanyard7.png?Expires=1721048669589&KeyName=labelbox-assets-key-3&Signature=hXpeAWkJfpQ4QhUFrGjLLdwtug0"
+    },
+    "media_attributes": {
+        "height": 190,
+        "width": 265,
+        "asset_type": "image",
+        "mime_type": "image/png",
+        "exif_rotation": "1"
+    },
+    "projects": {
+        "clylglh2g01oh071gh7y9dltn": {
+            "name": "Jagriti Blind School",
+            "labels": [
+                {
+                    "label_kind": "Default",
+                    "version": "1.0.0",
+                    "id": "clylk6az803ek07fw1p08get3",
+                    "annotations": {
+                        "objects": [
+                            {
+                                "feature_id": "clylk605o005j356qfbu9wflz",
+                                "feature_schema_id": "clyljoc500dua07zfh6xoff5q",
+                                "name": "Lanyard",
+                                "value": "lanyard",
+                                "annotation_kind": "ImageBoundingBox",
+                                "classifications": [],
+                                "bounding_box": {
+                                    "top": 73.0,
+                                    "left": 148.0,
+                                    "height": 66.0,
+                                    "width": 36.0
+                                }
+                            }
+                        ],
+                        "classifications": [],
+                        "relationships": []
+                    }
+                }
+            ],
+            "project_tags": []
+        }
+    }
+}
